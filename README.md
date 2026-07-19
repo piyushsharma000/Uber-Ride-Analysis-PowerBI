@@ -91,7 +91,7 @@ This project is an interactive **Uber Business Intelligence Dashboard** built us
 ![image alt](https://github.com/piyushsharma000/Uber-Analysis-Dashboard-Power-Bi/blob/main/Uber%20Vehicle%20Page.png?raw=true)
 
 ### Revenue Analysis
-![image alt]
+![image alt](https://github.com/piyushsharma000/Uber-Analysis-Dashboard-Power-Bi/blob/main/Uber%20Revenue%20Page.png?raw=true)
 
 ### Rider Analysis
 ![image alt]
